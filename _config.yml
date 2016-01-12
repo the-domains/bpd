@@ -1,0 +1,28 @@
+name: BPD
+favicon: null
+layout_spectrum: 0.44410569965839386
+typography_spectrum: 0.9108300290536135
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.6772257050033659
+  lightness: 0.014178852317854762
+  saturation: 0.216189801460132
+  rhythmicContrast: 0.3802966547664255
+purpose: []
