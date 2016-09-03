@@ -24,10 +24,6 @@ cta:
   domain: null
   bucket: null
   version: null
-navigation:
-  - name: About
-    url: www.brianpdean.com
-    type: external
 favicon: null
 title: bpd productions
 purpose: []
